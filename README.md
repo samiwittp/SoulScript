@@ -1,0 +1,1 @@
+Journaling Application. Allows for you to input information on your day and how you feel on that day. You can then come back and edit it later. You can also download this application onto your mobile device.
