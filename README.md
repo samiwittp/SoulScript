@@ -1,2 +1,0 @@
-# SoulScript
-Journaling Application
